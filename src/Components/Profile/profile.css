@@ -1,0 +1,25 @@
+.profile-bar {
+  height:50px ;
+  background-color: #3fd13c ;
+  width: 100% ;
+  text-align: centefr;
+}
+.profile-bar ul {
+  list-style: none ;
+}
+.profile-bar li    {
+  display: inline-block ;
+  padding : 0 ;
+
+  margin : auto 20px;
+
+}
+
+.profile-bar ul li .link {
+  font-size: 20px ;
+  color : white ;
+  text-decoration: none ;
+  margin : 0 ;
+  padding : 0 ;
+
+}
